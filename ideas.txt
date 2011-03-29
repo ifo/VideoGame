@@ -2,6 +2,10 @@ Game type ideas:
 
 - A simple real time strategy game, resembling the Phoenix egg guarding in Final Fantasy 7, or the game play type of Ogre Battle.
 
-- 
+- Side-scrolling space shooter (ala Gradius) where you can slow down and speed up time.
+
+- Hive - A strategy/simulation game where you manage a beehive, forage for pollen/nectar, build honeycomb, and defend against attacks.
+
+- Prism - A puzzle game where you use different shaped mirrors to guide a laser from start to finish and pick up power-ups and points along the way.
 
 - Profit?
