@@ -9,3 +9,6 @@ Game type ideas:
 - Prism - A puzzle game where you use different shaped mirrors to guide a laser from start to finish and pick up power-ups and points along the way.
 
 - Profit?
+
+- FOB (Forward Operating Base) a tower defense... on steroids, i have been thinking of this idea for a while! 
+
